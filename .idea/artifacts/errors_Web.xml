@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="errors:Web">
+    <output-path>$PROJECT_DIR$/classes/artifacts/errors_Web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="06_1_13_errors" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
